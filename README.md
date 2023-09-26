@@ -9,7 +9,8 @@ $ git clone https://github.com/MatheusAlvesPereira/crud-com-php.git
 ```
 
 2. Install PHP 8....[click here](https://www.php.net/downloads).
-3. Install XAMPP <br> ![Captura de tela 2023-09-26 153113](https://github.com/MatheusAlvesPereira/crud-com-php/assets/99885299/9d28be4b-ad62-4aef-8b31-aa02354e8130)
+3. Install XAMPP [click here](https://www.apachefriends.org/pt_br/index.html).
+<br> ![Captura de tela 2023-09-26 153113](https://github.com/MatheusAlvesPereira/crud-com-php/assets/99885299/9d28be4b-ad62-4aef-8b31-aa02354e8130)
 
 
 ## Database
