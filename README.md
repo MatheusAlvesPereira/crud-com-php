@@ -9,7 +9,8 @@ $ git clone https://github.com/MatheusAlvesPereira/crud-com-php.git
 ```
 
 2. Install PHP 8....[click here](https://www.php.net/downloads).
-3. Install Live server Extension![Captura de tela 2023-09-25 103136](https://github.com/MatheusAlvesPereira/crud-com-php/assets/99885299/6fafc6a7-7ea3-44a7-b8ec-8c7b4fb1842e)
+3. Install XAMPP <br> ![Captura de tela 2023-09-26 153113](https://github.com/MatheusAlvesPereira/crud-com-php/assets/99885299/9d28be4b-ad62-4aef-8b31-aa02354e8130)
+
 
 ## Database
 The project uses PostgresSQL as the database.
